@@ -1,0 +1,16 @@
+# Dependencies used by the project notebooks.
+numpy
+pandas>=2.2
+matplotlib
+seaborn
+scipy
+statsmodels
+sktime
+scikit-learn
+datasets
+huggingface-hub
+pyarrow
+kagglehub
+
+# Jupyter notebook kernel.
+ipykernel
