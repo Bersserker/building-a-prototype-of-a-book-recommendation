@@ -7,10 +7,14 @@ scipy
 statsmodels
 sktime
 scikit-learn
+threadpoolctl
 datasets
 huggingface-hub
 pyarrow
 kagglehub
+scikit-surprise
+wordcloud
 
 # Jupyter notebook kernel.
+ipython
 ipykernel

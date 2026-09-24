@@ -27,3 +27,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+#old_versions
+chernovik.ipynb
+ranking_evaluation.py
+.old_versions/
+old_versions
